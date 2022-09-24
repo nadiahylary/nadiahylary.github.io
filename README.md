@@ -1,2 +1,2 @@
-# nadiahylary.github.io
+# nadiahylary
 [My portfolio](https://nadiahylary.github.io/)
