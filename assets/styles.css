@@ -4,7 +4,7 @@ body {
 }
 
 section {
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 .hero {
@@ -118,7 +118,7 @@ p {
 
 .headshot {
     width: 300px;
-    border-radius: 150px;
+    border-radius: 50px;
     margin-left: 80px;
 }
 
@@ -149,8 +149,8 @@ p {
 
 .project-image {
     margin-top: 25px;
-    width: 250px;
-
+    width: 350px;
+    border-radius: 10px;
 }
 
 hr {
