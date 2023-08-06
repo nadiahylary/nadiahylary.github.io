@@ -222,18 +222,14 @@ a {
     justify-content: space-evenly;
 }
 #more-projects {
-    display: flow;
     margin-top: 25px;
     padding: 15px;
-
 }
 #more-projects .project-link {
     color: #1c1d25;
     font-size: 24px;
 }
-#more-projects .project-link img {
-    width: 30px;
-}
+
 #more-projects .project-link:hover{
     color: rgb(800, 100, 100);
 }
