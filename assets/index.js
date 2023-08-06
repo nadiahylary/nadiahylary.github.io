@@ -26,7 +26,7 @@ function loadIntro() {
 }
 const abouts = [
     "I have a Master's degree in Software Engineering and I like building mobile apps for fun and personal use.",
-    "My software development journey started back in 2020.",
+    "My software development journey started back in 2019.",
     "In the past, I've been involved in multiple interesting freelance, as well as contract, projects. <br>Ranging from online stores to family meals organizer and more.",
     "Being back in Cameroon recently, I pursued my studies in Tunisia, in a private digital-centered institution.",
     "In my free time I like to read books and discuss various topics. <br>Such as the evolution of software engineering, women's rights in our society and self-improvement.",
