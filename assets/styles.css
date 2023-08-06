@@ -178,11 +178,6 @@ a {
     outline: 0;
 }
 
-#about-ul {
-    list-style-type: circle;
-    font-size: 30px;
-    font-weight: normal;
-}
 
 @media only screen and (max-width: 1000px) {
     .hamburger {
