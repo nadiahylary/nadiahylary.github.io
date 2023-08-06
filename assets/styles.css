@@ -226,17 +226,18 @@ a {
     display: flex;
     justify-content: space-evenly;
 }
-/*#more-projects {
+
+#more-projects .project-link {
     margin-top: 25px;
     padding: 15px;
-}
-#more-projects .project-link {
     color: #1c1d25;
     font-size: 24px;
 }
+
 #more-projects .project-link:hover{
     color: rgb(800, 100, 100);
-}*/
+}
+
 footer div {
     display: flex;
     justify-content: center;
@@ -245,6 +246,7 @@ footer div {
 footer h2 {
     color: rgb(800, 80, 80);
 }
+
 footer p {
     font-size: 18px;
 }
