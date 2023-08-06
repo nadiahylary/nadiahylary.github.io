@@ -221,7 +221,7 @@ a {
     display: flex;
     justify-content: space-evenly;
 }
-#more-projects {
+/*#more-projects {
     margin-top: 25px;
     padding: 15px;
 }
@@ -229,10 +229,9 @@ a {
     color: #1c1d25;
     font-size: 24px;
 }
-
 #more-projects .project-link:hover{
     color: rgb(800, 100, 100);
-}
+}*/
 footer div {
     display: flex;
     justify-content: center;
