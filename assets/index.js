@@ -12,7 +12,7 @@ window.onload = function () {
     setInterval(loadAbout, 3500)
 }
 
-const intros = ["Mobile Developer", "Feminist", "Backend Developer", "Content Creator", "Yogi", "Lifelong Learner"];
+const intros = ["Mobile Developer", "Backend Developer", "Feminist", "DevOps Enthusiast", "Content Creator", "Yogi", "Lifelong Learner"];
 let index = 0;
 const intro = document.getElementById("intro-loader");
 
