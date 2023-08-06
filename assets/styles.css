@@ -32,10 +32,14 @@ ul {
     width: 500px;
     justify-content: space-around;
     font-size: 24px;
+    margin-right: 20px;
 }
 
 li {
     text-decoration: none;
+}
+li a:hover {
+    color: rgb(900, 80, 80);
 }
 
 h1 {
@@ -95,9 +99,15 @@ p {
     padding-bottom: 200px;
 }
 
-.logo {
-    height: 100px;
-    margin: 30px;
+#page-logo a {
+    font-family: Oleo Script, Pacifico, sans-serif;
+    padding: 10px;
+    margin-left: 10px;
+    color: rgb(255, 50, 50);
+    font-size: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px black;
 }
 .social {
     margin: 20px;
