@@ -36,7 +36,7 @@ const about = document.getElementById("about-p")
 let aboutIndex = 0;
 function loadAbout() {
     about.innerHTML = abouts[aboutIndex];
-    /*about.classList.add("fade");*/
+    about.classList.add("fade");
     aboutIndex++;
     if (aboutIndex >= abouts.length) {
         aboutIndex = 0;
